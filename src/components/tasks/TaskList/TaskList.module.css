@@ -4,6 +4,9 @@
 .mainContainer{ 
   display: flex;
   height: 93vh;
+
+  user-select: none;
+  width: 95vw;
 }
 .taskList {
   justify-content: space-around;

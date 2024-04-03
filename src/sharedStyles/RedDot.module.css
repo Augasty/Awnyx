@@ -15,7 +15,7 @@
   justify-content: center;
   font-size: 2.2vh;
   font-weight: bold;
-  color: var(--alt-text-color);
+  color: var(--reddot-text);
 }
 
 /* Add this style for animation if you want */

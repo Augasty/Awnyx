@@ -2,6 +2,7 @@
   display: flex;
   height: 93vh;
   user-select: none;
+  width: 95vw;
   }
 .storyList {
   align-items: top;

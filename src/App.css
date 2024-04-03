@@ -4,6 +4,7 @@
   --chat-text-color: #FFFFFF;
   --highlight-color: #3a85ff;
   --reddot-bg: red;
+  --reddot-text: white;
 
   --navbar-bg-color: #ffffff;
   --navbar-font-size: 2.7vh;
@@ -71,6 +72,7 @@
   --text-color: #ffffff;
   --secondary-text-color: #ffffff;
   --reddot-bg: white;
+  --reddot-text: black;
   
 
   --navbar-bg-color: #1a1a1a;
